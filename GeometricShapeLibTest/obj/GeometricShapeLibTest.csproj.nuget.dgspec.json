@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alfa\\Desktop\\For MindBox\\GeometricShapeLibTest\\GeometricShapeLibTest.csproj": {}
+    "C:\\Users\\Alfa\\Desktop\\MindBox for GIT\\GeometricShapeLibTest\\GeometricShapeLibTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alfa\\Desktop\\For MindBox\\GeometricShapeLibTest\\GeometricShapeLibTest.csproj": {
+    "C:\\Users\\Alfa\\Desktop\\MindBox for GIT\\GeometricShapeLibTest\\GeometricShapeLibTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alfa\\Desktop\\For MindBox\\GeometricShapeLibTest\\GeometricShapeLibTest.csproj",
+        "projectUniqueName": "C:\\Users\\Alfa\\Desktop\\MindBox for GIT\\GeometricShapeLibTest\\GeometricShapeLibTest.csproj",
         "projectName": "GeometricShapeLibTest",
-        "projectPath": "C:\\Users\\Alfa\\Desktop\\For MindBox\\GeometricShapeLibTest\\GeometricShapeLibTest.csproj",
+        "projectPath": "C:\\Users\\Alfa\\Desktop\\MindBox for GIT\\GeometricShapeLibTest\\GeometricShapeLibTest.csproj",
         "packagesPath": "C:\\Users\\Alfa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alfa\\Desktop\\For MindBox\\GeometricShapeLibTest\\obj\\",
+        "outputPath": "C:\\Users\\Alfa\\Desktop\\MindBox for GIT\\GeometricShapeLibTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "B:\\MVS\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Alfa\\Desktop\\For MindBox\\GeometricShapeLib\\GeometricShapeLib.csproj": {
-                "projectPath": "C:\\Users\\Alfa\\Desktop\\For MindBox\\GeometricShapeLib\\GeometricShapeLib.csproj"
+              "C:\\Users\\Alfa\\Desktop\\MindBox for GIT\\GeometricShapeLib\\GeometricShapeLib.csproj": {
+                "projectPath": "C:\\Users\\Alfa\\Desktop\\MindBox for GIT\\GeometricShapeLib\\GeometricShapeLib.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\Alfa\\Desktop\\For MindBox\\GeometricShapeLib\\GeometricShapeLib.csproj": {
+    "C:\\Users\\Alfa\\Desktop\\MindBox for GIT\\GeometricShapeLib\\GeometricShapeLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alfa\\Desktop\\For MindBox\\GeometricShapeLib\\GeometricShapeLib.csproj",
+        "projectUniqueName": "C:\\Users\\Alfa\\Desktop\\MindBox for GIT\\GeometricShapeLib\\GeometricShapeLib.csproj",
         "projectName": "GeometricShapeLib",
-        "projectPath": "C:\\Users\\Alfa\\Desktop\\For MindBox\\GeometricShapeLib\\GeometricShapeLib.csproj",
+        "projectPath": "C:\\Users\\Alfa\\Desktop\\MindBox for GIT\\GeometricShapeLib\\GeometricShapeLib.csproj",
         "packagesPath": "C:\\Users\\Alfa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alfa\\Desktop\\For MindBox\\GeometricShapeLib\\obj\\",
+        "outputPath": "C:\\Users\\Alfa\\Desktop\\MindBox for GIT\\GeometricShapeLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "B:\\MVS\\NuGetPackages"
