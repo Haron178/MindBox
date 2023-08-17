@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v9I8gRveUmQTiUFk0d/RPvOo4tsH9+uz8ST4F4LUp2ygMuPLrhwE+Yff+rIDzLvKLHyn8h9Zbf4yxvVwkdQ3pw==",
+  "dgSpecHash": "k8nzrWpjT+optjnroZBnl9kxcIMJ0augIDNnINtac9DXbOkF2aNwTwe7MG8Vxn/zrHb5hZMyFLdp7/q0IcDehg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alfa\\Desktop\\For MindBox\\SquareLibTest\\SquareLibTest.csproj",
+  "projectFilePath": "C:\\Users\\Alfa\\Desktop\\For MindBox\\GeometricShapeLibTest\\GeometricShapeLibTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alfa\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Alfa\\.nuget\\packages\\microsoft.codecoverage\\17.7.1\\microsoft.codecoverage.17.7.1.nupkg.sha512",

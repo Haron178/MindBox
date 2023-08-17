@@ -1006,11 +1006,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alfa\\Desktop\\For MindBox\\SquareLibTest\\SquareLibTest.csproj",
-      "projectName": "SquareLibTest",
-      "projectPath": "C:\\Users\\Alfa\\Desktop\\For MindBox\\SquareLibTest\\SquareLibTest.csproj",
+      "projectUniqueName": "C:\\Users\\Alfa\\Desktop\\For MindBox\\GeometricShapeLibTest\\GeometricShapeLibTest.csproj",
+      "projectName": "GeometricShapeLibTest",
+      "projectPath": "C:\\Users\\Alfa\\Desktop\\For MindBox\\GeometricShapeLibTest\\GeometricShapeLibTest.csproj",
       "packagesPath": "C:\\Users\\Alfa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alfa\\Desktop\\For MindBox\\SquareLibTest\\obj\\",
+      "outputPath": "C:\\Users\\Alfa\\Desktop\\For MindBox\\GeometricShapeLibTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "B:\\MVS\\NuGetPackages"
